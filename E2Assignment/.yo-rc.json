@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "crudsp-list-items",
+    "libraryId": "32526b63-7866-4465-8f57-d0cfb0934af2",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "crudsp-list-items-client-side-solution",
+    "id": "32526b63-7866-4465-8f57-d0cfb0934af2",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/crudsp-list-items.sppkg"
+  }
+}
